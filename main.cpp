@@ -1,10 +1,6 @@
 // main.cpp
 // Updating with Log function
-#include <stdio.h>
-void Log()
-{
-	printf("Hellow World\n");
-}
+#include "Log.h"
 int main()
 {
 	Log();
