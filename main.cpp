@@ -1,4 +1,5 @@
-//main.cpp
+// main.cpp
+// Updating with Log function
 #include <stdio.h>
 void Log()
 {
