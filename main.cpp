@@ -1,7 +1,11 @@
 //main.cpp
 #include <stdio.h>
+void Log()
+{
+	printf("Hellow World\n");
+}
 int main()
 {
-	printf("Hello World\n");
+	Log();
 	return 0;
 }
